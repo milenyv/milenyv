@@ -1,8 +1,9 @@
+
 ### oiie, Eu sou a mileny 
+<html lang="pt-br">
+- 🌱 Atualmente estou aprendendo HTML, PYTHON, C#, JS, CSS
 
-- 🌱 I’m currently learning  HTML, PYTHON, C#, JS, CSS
-
-<div align = "center" >
+<div text-align = "center" >
   <a href="https://github.com/milenyv">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=milenyv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=milenyv&layout=compact&langs_count=7&theme=dracula" />
