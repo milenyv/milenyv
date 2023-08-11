@@ -1,6 +1,6 @@
 oiie, Meu nome é Mileny!
 <html lang="pt-br">
-- 🌱 Atualmente estou aprendendo HTML, PYTHON, C#, JS, CSS
+- 🌱 Aprendendo constantemente
 
 <div
   <a href="https://github.com/milenyv">
