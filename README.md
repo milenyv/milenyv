@@ -1,8 +1,9 @@
 oiie, Meu nome é Mileny!
 <html lang="pt-br">
+  
 👩‍💻 Desenvolvedora Front-end em formação  
-🚀 Focada em HTML, CSS, JavaScript, React e interfaces modernas  
-📍 Santos - SP  
+🚀 Focada em HTML, CSS, JavaScript, React e interfaces modernas 
+📍 Santos - SP 
 💼 Buscando oportunidade como Dev Front-end Júnior
 
 <div
